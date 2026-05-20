@@ -75,3 +75,9 @@ caching-proxy/
 - **Node.js** — çalışma ortamı
 - **Express** — HTTP sunucusu
 - **Commander** — CLI argüman yönetimi
+```
+
+## 👤 Geliştirici
+
+**Beratcan Polat**  
+Adıyaman Üniversitesi
